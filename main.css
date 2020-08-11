@@ -165,12 +165,15 @@
     padding-bottom: 5px;
     color:#666666;
     font-size: 15px;
-    display: flex;
 }
 
 .Instock{
     margin-top: 15px;
     font-size: 18px;
+    background: #c4e8f3;
+    border-radius: 10px;
+    text-align: center;
+    padding: 3px;
 }
 
 
